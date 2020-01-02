@@ -9,14 +9,14 @@ Este repositório contem projetos de análise de dados em diferentes áreas como
 
 ## Projetos de Data Science
 
-* **PROJETO 1:** [Nome do Projeto 1](https://github.com/carlosfab/)
-* **PROJETO 2:**  [Nome do Projeto 2](https://github.com/carlosfab/)
+* **PROJETO 1:** [Análise de dados do Airbnb](https://github.com/paulorayner/repositorio_dsnp/blob/master/Dados_Airbnb_Nova_York.ipynb)
+
 
 ---
 
 ### Sobre Mim:
 
-Sou Paulo Marcelo Rayner Oliveira, Biólogo e Doutor em Botânica especialista na área de Fisiologia Vegetal. 
+Sou Paulo Marcelo Rayner Oliveira, Biólogo e Doutor em Botânica especialista na área de Fisiologia Vegetal.
 
 * Graduação em Ciências Biológicas pela Universidade do Estado de Minas Gerais (UEMG)
 * Doutor em Botânica pela Universidade de São Paulo (USP)
