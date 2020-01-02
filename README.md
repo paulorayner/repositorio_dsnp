@@ -2,7 +2,8 @@
 [![author](https://img.shields.io/badge/author-paulorayner-red.svg)](https://www.linkedin.com/in/paulo-marcelo-rayner-oliveira/)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)]()
 
-# Portifolio com projetos de Data Science
+# Portifólio com projetos de Data Science
+Este repositório contem projetos de análise de dados em diferentes áreas como saúde, segurança pública, serviços, entre outros. O objetivo é mostrar diferentes ferramentas, processos e abordagens. 
 
 * [LinkedIn](https://www.linkedin.com/in/paulo-marcelo-rayner-oliveira/)
 
