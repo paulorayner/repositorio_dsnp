@@ -1,10 +1,10 @@
 # repositorio_dsnp
-[![author](https://img.shields.io/badge/author-carlosfab-red.svg)](https://www.linkedin.com/in/paulo-marcelo-rayner-oliveira/)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)]
+[![author](https://img.shields.io/badge/author-paulorayner-red.svg)](https://www.linkedin.com/in/paulo-marcelo-rayner-oliveira/)]
+
 # Portifolio com projetos de Data Science
 
 * [LinkedIn](https://www.linkedin.com/in/paulo-marcelo-rayner-oliveira/)
-* 
+
 ## Projetos de Data Science
 
 * **PROJETO 1:** [Nome do Projeto 1](https://github.com/carlosfab/)
