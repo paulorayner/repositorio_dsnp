@@ -1,5 +1,5 @@
 # repositorio_dsnp
-[![author](https://img.shields.io/badge/author-paulorayner-red.svg)](https://www.linkedin.com/in/paulo-marcelo-rayner-oliveira/)]
+[![author](https://img.shields.io/badge/author-paulorayner-red.svg)](https://www.linkedin.com/in/paulo-marcelo-rayner-oliveira/)
 
 # Portifolio com projetos de Data Science
 
