@@ -11,6 +11,7 @@ Este repositório contem projetos de análise de dados em diferentes áreas como
 
 * **PROJETO 1:** [Análise de dados do Airbnb](https://github.com/paulorayner/repositorio_dsnp/blob/master/Dados_Airbnb_Nova_York.ipynb)
 
+* **PROJETO 2:** [Análise da violência no Rio de Janeiro](https://github.com/paulorayner/repositorio_dsnp/blob/master/An%C3%A1lise_da_Viol%C3%AAncia_do_Rio_de_Janeiro.ipynb)
 
 ---
 
