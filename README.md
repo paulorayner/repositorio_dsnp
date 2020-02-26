@@ -13,6 +13,7 @@ Este repositório contem projetos de análise de dados em diferentes áreas como
 
 * **PROJETO 2:** [Análise da violência no Rio de Janeiro](https://github.com/paulorayner/repositorio_dsnp/blob/master/An%C3%A1lise_da_Viol%C3%AAncia_do_Rio_de_Janeiro.ipynb)
 
+* **Projeto 3:** [Análise de doenças cardiovasculares](https://github.com/paulorayner/repositorio_dsnp/blob/master/An%C3%A1lise_de_doen%C3%A7as_cardiovasculares.ipynb)
 ---
 
 ### Sobre Mim:
